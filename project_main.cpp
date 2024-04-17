@@ -5,7 +5,6 @@
 #include <iostream>
 #include <vector>
 #include <deque>
-#include <list>
 #include <string>
 #include <cstdlib>
 #include <ctime>
@@ -15,6 +14,10 @@
 #include <thread>
 #include <mutex>
 #include "function.h"
+#include "hand.h"
+#include "deck.h"
+#include "card.h"
+#include "pos_messages.h"
 
 // Global variables
 std::string intro = "Welcome to Blackjack!"; // Introduction message

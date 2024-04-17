@@ -5,6 +5,7 @@ How to compile and run code:
 
 The gameplay for blackjack is controlled through project_main.cpp
 The main function for the game is located in game_function.cpp
+Other relevant classes and functions are defined in other files
 
 Select debugger to run game and answer prompts on the terminal
 to play rounds of blackjack. Game ends whenever player runs out
